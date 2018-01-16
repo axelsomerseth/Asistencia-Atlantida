@@ -1,4 +1,6 @@
 <Page loaded="pageLoaded">
   <ActionBar title="My App" class="action-bar"></ActionBar>
-  <!-- Your UI components go here -->
+  <!-- Your UI components go here  -->
 </Page>
+
+

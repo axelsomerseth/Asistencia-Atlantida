@@ -1184,6 +1184,9 @@ android.support.transition.ViewUtilsImpl
 android.support.transition.Transition.TransitionListener
 android.support.transition.ViewGroupOverlayImpl
 android.support.transition.ViewGroupUtilsImpl
+com.aurelhubert.ahbottomnavigation.AHBottomNavigation.OnNavigationPositionListener
+com.aurelhubert.ahbottomnavigation.AHBottomNavigation.OnTabSelectedListener
+com.aurelhubert.ahbottomnavigation.VerticalScrollingBehavior.ScrollDirection
 org.ow2.asmdex.Opcodes
 org.ow2.asmdex.specificAnnotationParser.ISpecificAnnotationParser
 org.ow2.asmdex.structureWriter.IAnnotationsHolder
