@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_4cbb593eddaf3d4c3560c04d7e9e27829112d445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_e9b0d6dd14efda312582fb7dc1074f0f7ecc0649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_777b023b8a6bba39dbe986b16ebae7eb296ae47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_4af23c4f528b9089bce57a1116c0f29a0dec2da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_224a32c21cf8d8a0497123c3f222bf2e9719d79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_b08836d51696b51e62b5d8aac5ca06eb53fcc887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_060e905c5b5c1ab22b3c023c75987565bfc26791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_ff215db644ad0fe03a0904f2dc080a960b0aa3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_0005ad4e02d68cdaa02e6923fae2c3dd0f2ad529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_a6a4778e63f87c07ec8000096661b393eeddbce0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_8c46ae45d2aa0e5ebb042695b92d2a39bb30dcfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_f68f5ac9e7defa08feef3053294ff542be8e9c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_7b16977d4b4227086d52a5869194c9dcfdaad438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_5c475358bdd58ef96136bbcaf8cfd3be2cf32b5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Axel S. Cordova\Documents\GitHub\AsistenciaAtlantida\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_259d51706cb4366bcae7a3cc7e0c47c80017ef88.jar" />
+    </item>
+
+</items>
